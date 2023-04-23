@@ -1,4 +1,4 @@
-# vcenter tools
+# vcenter tool
 哥斯拉 vcenter后渗透插件
 
 暂时支持支Linux，因为没windows测试环境，也没碰见过vc是windows的
